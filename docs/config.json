@@ -2,6 +2,13 @@
   "config": [
     {
       "type": "link",
+      "slug": "tinacms",
+      "title": "TinaCms",
+      "id": "l9cz0ouv0",
+      "children": []
+    },
+    {
+      "type": "link",
       "key": "getting-started",
       "slug": "getting-started",
       "title": "Tina Alpaca",
